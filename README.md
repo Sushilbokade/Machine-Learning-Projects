@@ -2,10 +2,10 @@
 
    - ## Breast Cancer Classification:
       - The primary focus of this machine learning model is to be able to diffrentiate between malignant and benign tumors based on the tumor shape and its geometry.
-      - The data was extracted from scikit learn library.
+      - The data was extracted from Scikit learn library.
       - In here Seaborn library is been used for visualizations.
       - In here Support Vector Machine algorithm is used to train the model.
-      - In the end to improve the model GridSearchCv is been used to select the best parameters from the listed hyperparameters.
+      - In the end, to improve the model GridSearchCV from Scikit learn library is been used to select the best parameters from the listed hyperparameters.
    
   - ## Flights Fare Prediction Using Machine Learning:
       - The primary focus of this project is to use Machine Learning to Predict the Fare of Airlines tickets.
