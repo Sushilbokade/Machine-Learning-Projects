@@ -18,3 +18,15 @@
       - Here the concept of Natural Language Processing and Machine is being used.
       - Here TF - IDF (Term Frequency - Inverse Document Frequency), an NLP technique is being used to Preprocess the text data into vectors for ML models.
       - XGBoost (eXtreme Gradient Boosting) is being used for more accurate performance.
+
+   - ## Anticipating Menstrual Migraine Using Deep Learning:
+      - Empowering women with a tool to predict menstrual migraines, aiding early intervention and personalized treatment (traditional) migraine medication may not be suitable).
+      - Deep learning models trained on anonymized data to classify migraines as menstrual or non-menstrual.
+      - Exploratory data analysis (EDA) identified 24 relevant features. Experimentation with various deep learning architectures is ongoing.
+      - Improved quality of life for women suffering from menstrual migraines.
+
+   - ## Gaze Detection:
+      - Anticipating User's eye focus on screens for UI design, marketing (A/B testing), and accessibility.
+      - Uses **Python** & **numpy, dlib, CV2, etc.**
+      - Refining accuracy & exploring integration with applications.
+      - Further to be used for marketing ads along with A/B testing to et better engagements. 
